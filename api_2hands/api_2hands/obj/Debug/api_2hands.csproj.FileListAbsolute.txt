@@ -1,0 +1,148 @@
+E:\Duongg\API\api_2hands\api_2hands\bin\api_2hands.dll.config
+E:\Duongg\API\api_2hands\api_2hands\bin\api_2hands.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\api_2hands.pdb
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\csc.exe
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\csc.exe.config
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\csc.rsp
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\csi.exe
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\csi.exe.config
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\csi.rsp
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.AppContext.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Collections.Immutable.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Console.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Globalization.Calendars.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.IO.Compression.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.IO.FileSystem.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Net.Http.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Net.Sockets.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Reflection.Metadata.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.ValueTuple.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Xml.XPath.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\vbc.exe
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\vbc.exe.config
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\vbc.rsp
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\VBCSCompiler.exe
+E:\Duongg\API\api_2hands\api_2hands\bin\roslyn\VBCSCompiler.exe.config
+E:\Duongg\API\api_2hands\api_2hands\bin\EntityFramework.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\EntityFramework.SqlServer.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\Newtonsoft.Json.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\System.Net.Http.Formatting.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\System.Web.Cors.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\System.Web.Http.Cors.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\System.Web.Http.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\System.Web.Http.WebHost.dll
+E:\Duongg\API\api_2hands\api_2hands\bin\EntityFramework.xml
+E:\Duongg\API\api_2hands\api_2hands\bin\EntityFramework.SqlServer.xml
+E:\Duongg\API\api_2hands\api_2hands\bin\System.Web.Http.xml
+E:\Duongg\API\api_2hands\api_2hands\bin\System.Web.Http.Cors.xml
+E:\Duongg\API\api_2hands\api_2hands\bin\System.Web.Http.WebHost.xml
+E:\Duongg\API\api_2hands\api_2hands\bin\Newtonsoft.Json.xml
+E:\Duongg\API\api_2hands\api_2hands\bin\System.Net.Http.Formatting.xml
+E:\Duongg\API\api_2hands\api_2hands\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Duongg\API\api_2hands\api_2hands\obj\Debug\api_2hands.csproj.CoreCompileInputs.cache
+E:\Duongg\API\api_2hands\api_2hands\obj\Debug\api_2hands.csproj.CopyComplete
+E:\Duongg\API\api_2hands\api_2hands\obj\Debug\api_2hands.dll
+E:\Duongg\API\api_2hands\api_2hands\obj\Debug\api_2hands.pdb
+E:\Duongg\API\api_2hands\api_2hands\obj\Debug\api_2hands.csproj.AssemblyReference.cache
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\api_2hands.dll.config
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\api_2hands.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\api_2hands.pdb
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\csc.exe
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\csc.exe.config
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\csc.rsp
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\csi.exe
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\csi.exe.config
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\csi.rsp
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\Microsoft.Managed.Core.targets
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.AppContext.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Collections.Immutable.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Console.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Globalization.Calendars.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.IO.Compression.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.IO.FileSystem.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Net.Http.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Net.Sockets.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Reflection.Metadata.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.ValueTuple.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Xml.XmlDocument.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Xml.XPath.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\vbc.exe
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\vbc.exe.config
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\vbc.rsp
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\VBCSCompiler.exe
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\roslyn\VBCSCompiler.exe.config
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\EntityFramework.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\EntityFramework.SqlServer.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\Newtonsoft.Json.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\System.Net.Http.Formatting.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\System.Web.Cors.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\System.Web.Http.Cors.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\System.Web.Http.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\System.Web.Http.WebHost.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\EntityFramework.xml
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\EntityFramework.SqlServer.xml
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\System.Web.Http.xml
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\System.Web.Http.Cors.xml
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\System.Web.Http.WebHost.xml
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\Newtonsoft.Json.xml
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\System.Net.Http.Formatting.xml
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\obj\Debug\api_2hands.csproj.AssemblyReference.cache
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\obj\Debug\api_2hands.csproj.CoreCompileInputs.cache
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\obj\Debug\api_2hands.csproj.CopyComplete
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\obj\Debug\api_2hands.dll
+E:\workspace\ĐỒ ÁN\workspace\api_2hands\api_2hands\obj\Debug\api_2hands.pdb
